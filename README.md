@@ -33,9 +33,9 @@ An interactive visualization tool for the Selection Sort algorithm, built with H
 ## 📥 Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/KrishnaCodeCrafter/SelectionSort-Visualizer.git
-```
+   ```bash
+   git clone https://github.com/KrishnaCodeCrafter/SelectionSort-Visualizer.git
+   ```
 
 2. Navigate to the project folder:
    ```bash
