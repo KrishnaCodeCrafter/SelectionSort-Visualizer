@@ -30,6 +30,7 @@ An interactive visualization tool for the Selection Sort algorithm, built with H
 | 💚 Green    | Sorted elements        |
 | 💛 Yellow   | Current minimum        |
 | ❤️ Red      | Comparing              |
+| 🧡 Orange   | New minimum found      |
 
 ## 🛠️ Technologies
 
@@ -42,4 +43,15 @@ An interactive visualization tool for the Selection Sort algorithm, built with H
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/selection-sort-visualizer.git
+git clone https://github.com/KrishnaCodeCrafters/selection-sort-visualizer.git
+
+2. **Navigate to the project folder:**
+   ```bash
+   cd SelectionSort-Visualizer
+   ```
+
+3. **Open the `index.html` file in your browser:**
+   ```bash
+   open index.html  # For macOS
+   start index.html # For Windows
+   ```
