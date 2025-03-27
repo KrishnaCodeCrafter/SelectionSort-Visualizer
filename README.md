@@ -23,15 +23,6 @@ An interactive visualization tool for the Selection Sort algorithm, built with H
 3. **Reset**:
    - Click "Reset" to clear everything
 
-## 🎨 Color Legend
-
-| Color       | Meaning                |
-|-------------|------------------------|
-| 💚 Green    | Sorted elements        |
-| 💛 Yellow   | Current minimum        |
-| ❤️ Red      | Comparing              |
-| 🧡 Orange   | New minimum found      |
-
 ## 🛠️ Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
