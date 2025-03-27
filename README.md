@@ -56,3 +56,5 @@ git clone https://github.com/KrishnaCodeCrafter/SelectionSort-Visualizer.git
    open index.html  # For macOS
    start index.html # For Windows
    ```
+
+Made with ❤️ by KrishnaCodeCrafter
