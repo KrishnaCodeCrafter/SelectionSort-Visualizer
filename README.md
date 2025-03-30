@@ -10,6 +10,10 @@ An interactive visualization tool for the Selection Sort algorithm, built with H
 - **Responsive Design**: Works on both desktop and mobile devices
 - **Step-by-Step Display**: Shows each iteration of the sorting process
 
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e1cb3f16-834b-465e-af6d-804dd9dcf0df)
+
 ## 🚀 How to Use
 
 1. **Add Numbers**:
